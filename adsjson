@@ -1,10 +1,12 @@
+com.SoodaAppsJT.blurrrApp
+
 {
 
 	"ads": {
-		"Bannerapplovine": "",
-		"Interapplovine": "",
-		"max_native_normal": "",
-		"max_native_small": "",
+		"Bannerapplovine": "83a696f2cc89cf4a",
+		"Interapplovine": "ace06bdde713fb04",
+		"max_native_normal": "77a35253ea4fc1d8",
+		"max_native_small": "973de9852f6b750d",
 		"rewordapplovine": "",
 
 		"GetApp_Url": "https://www.google.com/",
